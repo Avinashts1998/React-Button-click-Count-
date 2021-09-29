@@ -1,0 +1,31 @@
+.bg-container {
+  background-color: antiquewhite;
+  padding: 30px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.headline {
+  color: darkslategrey;
+  font-family: 'roboto';
+  font-size: 30px;
+}
+
+.span {
+  color: blueviolet;
+  font-size: 40px;
+}
+.paragraph {
+  color: darkslategrey;
+  font-weight: 500;
+}
+.button {
+  color: white;
+  border: 0px;
+  border-radius: 3px;
+  background-color: #3399ff;
+  height: 25px;
+  width: 70px;
+}
